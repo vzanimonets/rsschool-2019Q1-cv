@@ -3,9 +3,6 @@
 :before {
   box-sizing: border-box;
 }
-html{
-    font-family: sans-serif;;
-}
 body {
   max-width: 1024px;
   padding: 0 16px;
