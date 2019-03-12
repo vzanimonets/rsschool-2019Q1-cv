@@ -8,14 +8,14 @@ html{
 }
 body {
   max-width: 1024px;
+  padding: 0 16px;
+  margin: 32px auto;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"ZZZ;
   font-size: 16px;
   line-height: 1.5;
   color: #24292e;
   word-wrap: break-word;
-  padding: 0 16px;
-  margin: 32px auto;
 }
 a {
   text-decoration: none;
