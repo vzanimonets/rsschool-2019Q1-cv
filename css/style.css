@@ -48,6 +48,9 @@ li{
 li + li {
   margin-top: 0.25em;
 }
+li:last-child{
+  display: inline-block;
+}
 table {
   display: block;
   width: 100%;
